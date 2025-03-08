@@ -1,4 +1,4 @@
-for i in $(seq 1 100); do
+for i in $(seq 103 200); do
   # Append a unique line to readme.md
   echo "This is commit number $i" > READEME.md
   
